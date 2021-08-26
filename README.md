@@ -1,7 +1,7 @@
 # **Data to Decisions**
 ## Owner of this portal:
  ### First Name: Sai Krishna
-
+| details  | image |
 | ------------- | ------------- |
 | photo         | ![Photo](https://github.com/saikrishnags05/Data-to-Decisions/blob/638496b66a252c1259330cc06cf589e251d0480e/download.jpg) |
 
