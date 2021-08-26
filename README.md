@@ -1,7 +1,7 @@
 # **Data to Decisions**
-## owner of this portal:
+## Owner of this portal:
  ### First Name: Sai Krishna
-| First Header  | Second Header |
+
 | ------------- | ------------- |
 | photo         | ![Photo](https://github.com/saikrishnags05/Data-to-Decisions/blob/638496b66a252c1259330cc06cf589e251d0480e/download.jpg) |
 | Content Cell  | Content Cell  |
