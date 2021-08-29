@@ -1,7 +1,7 @@
 # **Data to Decisions**
 ## Owner of this portal:
  ### First Name: Sai Krishna
-| details  | image |
+|   |  |
 | ------------- | ------------- |
 | photo         | ![Photo]() |
 
