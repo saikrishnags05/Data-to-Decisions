@@ -7,7 +7,7 @@
 
 
 # Assignments
-*  ### [Data Entry Analysis ](https://github.com/saikrishnags05/Data-to-Decisions/blob/0c18f28868fc44434d3667b2931d49315193f2e0/Data%20Entry%20Analysis/readme.md)
+*  ### [Data Entry Analysis ](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Entry%20Analysis/readme.md)
 * ### [Data Exploration](https://github.com/saikrishnags05/Data-to-Decisions/blob/0c18f28868fc44434d3667b2931d49315193f2e0/Data%20Exploration/readme.md)
 
 ## Copyright 
