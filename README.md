@@ -1,7 +1,7 @@
 
-<p align="center">
-    <h1>Data to Decisions</h1>
-</p>
+
+    <h1 align="center">Data to Decisions</h1>
+
 
 ## Owner of this portal:
  ### First Name: Sai Krishna
