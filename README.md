@@ -1,16 +1,14 @@
-
-<h1 align="center">Data to Decision</h1>
-
-
 ### Owner of this portal:
- ### First Name: Sai Krishna
+ ### First Name: 
  
 |   |  |
 | ------------- | ------------- |
+|Name| ** Sai Krishna**|
 | Objective  |   Desire to learn and enhance my skills to seek a position that provides Challenging opportunities and take advantage of communication and leadership skills.|
 | photo         | ![Photo]() |
 
 
+<h1 align="center">Data to Decision</h1>
 
 # Assignments
 *  ### [Data Entry Analysis ](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Entry%20Analysis/readme.md)
