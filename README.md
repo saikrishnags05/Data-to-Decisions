@@ -14,7 +14,7 @@
 
 # Assignments
 *  ### [Data Entry Analysis ](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Entry%20Analysis/readme.md)
-* ### [Data Exploration](https://github.com/saikrishnags05/Data-to-Decisions/tree/main/Data%20Exploration/readme.md)
+* ### [Data Exploration](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/readme.md)
 
 # Technologies/Tools Used: 
 * Markdown
