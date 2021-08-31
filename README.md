@@ -2,7 +2,7 @@
 <h1 align="center">Data to Decision</h1>
 
 
-## Owner of this portal:
+### Owner of this portal:
  ### First Name: Sai Krishna
  
 |   |  |
@@ -19,6 +19,7 @@
 # Technologies/Tools Used: 
 * Markdown
 * R-programming
+* Data Visualizations 
 
 
 ## Copyright 
