@@ -3,7 +3,7 @@
  
 |   |  |
 | ------------- | ------------- |
-|Name| ** Sai Krishna**|
+|Name| **Sai Krishna**|
 | Objective  |   Desire to learn and enhance my skills to seek a position that provides Challenging opportunities and take advantage of communication and leadership skills.|
 | photo         | ![Photo]() |
 
