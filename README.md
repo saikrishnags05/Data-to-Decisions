@@ -16,6 +16,8 @@
 * Markdown
 * R-programming
 * Data Visualizations 
+* GIT
+
 
 
 ## Copyright 
