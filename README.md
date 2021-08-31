@@ -1,6 +1,6 @@
 
 <p align="center">
-    # **Data to Decisions**
+    # Data to Decisions
 </p>
 
 ## Owner of this portal:
