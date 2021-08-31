@@ -1,4 +1,7 @@
-# **Data to Decisions**
+
+<p align="center">
+    # **Data to Decisions**
+</p>
 ## Owner of this portal:
  ### First Name: Sai Krishna
 |   |  |
