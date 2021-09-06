@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Data to Decision</h1>
-<img src="https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data_to_Decision.jpg" alt="Data to Decision" width="200" height="100"/>
+<img src="https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data_to_Decision.jpg" alt="Data to Decision"  width="500" height="600"/>
 
 ![Data to Decision](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data_to_Decision.jpg)
 
