@@ -7,6 +7,7 @@
 
 
 <h1 align="center">Data to Decision</h1>
+
 ![Data to Decision](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data_to_Decision.jpg)
 
 # Assignments
