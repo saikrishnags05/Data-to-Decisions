@@ -1,6 +1,6 @@
 ### Welcome to my Portal:
 |||
-
+| ------------- | ------------- |
 |Name| **Sai Krishna**|
 | Objective  |   Desire to learn and enhance my skills to seek a position that provides challenging opportunities and take advantage of communication and leadership skills.|
 
