@@ -1,9 +1,9 @@
-### Welcome ot my portal:
+### Welcome to my portal:
 |||
 | ------------- | ------------- |
 |Name| **Sai Krishna**|
 | Objective  |   Desire to learn and enhance my skills to seek a position that provides Challenging opportunities and take advantage of communication and leadership skills.|
-| photo         | ![Photo](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/image_1.jpeg) |
+| Photo         | ![Photo](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/image_1.jpeg) |
 
 
 <h1 align="center">Data to Decision</h1>
