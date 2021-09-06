@@ -7,6 +7,8 @@
 
 
 <h1 align="center">Data to Decision</h1>
+### Data to Decision is derived as the process of making a proper decision for the beneficiary of the organizational demands based on the actual data
+
 
 ![Data to Decision](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data_to_Decision.jpg)
 
