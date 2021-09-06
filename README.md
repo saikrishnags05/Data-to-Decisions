@@ -7,7 +7,8 @@
 
 
 <h1 align="center">Data to Decision</h1>
-![Data to Decision](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20to%20Decision_1.PNG)
+![DTOD]()
+![Photo](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data_to_Decision.jpg)
 
 # Assignments
 *  ### [Data Entry Analysis ](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Entry%20Analysis/readme.md)
