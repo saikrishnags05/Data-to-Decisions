@@ -18,10 +18,11 @@ Data to Decision is derived as the process of making a proper decision for the b
 * ### [Data Exploration](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/readme.md)
 
 # Technologies/Tools Used: 
-* Markdown
-* R-programming
+* [Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [R-programming])https://en.wikipedia.org/wiki/R_(programming_language))
 * Data Visualizations 
-* GIT
+* [GIT](https://en.wikipedia.org/wiki/GitHub)
+* [Star UML]()
 
 
 
