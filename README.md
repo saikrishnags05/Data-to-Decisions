@@ -10,7 +10,7 @@
 
 Data to Decision is derived as the process of making a proper decision for the beneficiary of the organizational demands based on the actual data.
 
-## Diagram below represents work procedure of a decision that to be taken in clockwise direction
+## Diagram below represents work procedure of a decision (in clockwise direction)that  needs to be taken.
 ![Data to Decision](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data_to_Decision.jpg)
 
 # Assignments
