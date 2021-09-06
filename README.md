@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Data to Decision</h1>
-
+![Data to Decision](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data to Decision.jpeg)
 # Assignments
 *  ### [Data Entry Analysis ](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Entry%20Analysis/readme.md)
 * ### [Data Exploration](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/readme.md)
