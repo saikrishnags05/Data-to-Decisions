@@ -27,5 +27,5 @@ Data to Decision is derived as the process of making a proper decision for the b
 
 
 ## Copyright 
-Copyright (c)  Version 3, 29 June 2007  Released under the [GNU GENERAL PUBLIC LICENSE](https://github.com/saikrishnags05/Data-to-Decisions/blob/429fafefdf300ddd4942f2154323588806f3d907/LICENSE)
+Copyright (c)  Version 3, 7 September 2021 Released under the [GNU GENERAL PUBLIC LICENSE](https://github.com/saikrishnags05/Data-to-Decisions/blob/429fafefdf300ddd4942f2154323588806f3d907/LICENSE)
 
