@@ -3,9 +3,9 @@
 
 ```r
 
-dataFile<-"auto-mpg.csv.csv"
+dataFile<-"HFS Service Data.csv"
 
-data<-read.table(dataFile, header=TRUE, sep=",", stringsAsFactors=FALSE, dec=".")
+data<-read.table(dataFile)
 head(data)
 
 ```
