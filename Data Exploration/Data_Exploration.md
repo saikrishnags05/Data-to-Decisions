@@ -51,7 +51,7 @@ Lets us take a limited data frame for the table like age,program name and progra
 library(ggplot2)
 ggplot(df_HFS, aes(x=age))+ geom_bar(width=0.75, fill="steelblue")+theme_minimal()+facet_wrap(state~program_name)+labs(title = "Bar plot based on Age based on program description") +ylab('Program Description')+ylab('Age')
 ```
-
+![Bar Plot](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/plots/Barplot.jpeg)
 
 # 2. One scatter plot of two variables, properly labeled, with a trend line added in
 ```{r }
