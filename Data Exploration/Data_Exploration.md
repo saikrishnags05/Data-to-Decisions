@@ -18,6 +18,37 @@ Let us see the summery of the CSV file.
 ```{r}
 summary(df_HFS)
 ```
+
+
+Lets us take a limited data frame for the table like age,program name and program description
+#  1. One bar chart, properly labeled
+
+```{r }
+library(ggplot2)
+ggplot(df_HFS, aes(x=age))+ geom_bar(width=0.75, fill="steelblue")+theme_minimal()+facet_wrap(state~program_name)+labs(title = "Bar plot based on Age based on program description") +ylab('Program Description')+ylab('Age')
+```
+![Bar Plot](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/plots/barplot_1.PNG)
+
+
+# 2. One scatter plot of two variables, properly labeled, with a trend line added in
+```{r }
+p <- ggplot(data = df_HFS, aes(x =age , y =program_unit_description , color=program_name)) 
+p + geom_point(size = 3) + geom_smooth(method = "lm")+ labs(title = "Scatter plot based on Age &
+Program Descriptionwith a trend line") +ylab('Program Description')+xlab('Age')
+```
+![Scattor Plot](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/plots/Q2.PNG)
+
+# 3. One faceted plot of two variables, properly labeled
+
+```{r  out.height= '100%' }
+p <- ggplot(data = df_HFS, aes(x =state , y =program_name , color= is_client_involved)) 
+p + geom_point(size = 3) +facet_wrap(~ethnic_identity)+
+labs(title = "Scatter plot based on  Age and Program faceted with ethnic identity W.R.T to client involvement") +ylab('Name of the Program ')+xlab('Age')
+```
+![Faceted Plot](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/plots/Q3.PNG)
+
+**According to ht above 3 plots we came under a consideration that there are few missing values, short formas for the states**
+
 Verify if we have any missing values or not.
 with command `any(is.na())` if we get TRUE then there are some missing values if 
 False then we have NA values.
@@ -43,31 +74,3 @@ df_HFS$state[df_HFS$state == "NC"] <- "north carolina"
 df_HFS$state[df_HFS$state == "CO"] <- "colorado"
 c(unique(df_HFS$state))
 ```
-
-Lets us take a limited data frame for the table like age,program name and program description
-#  1. One bar chart, properly labeled
-
-```{r }
-library(ggplot2)
-ggplot(df_HFS, aes(x=age))+ geom_bar(width=0.75, fill="steelblue")+theme_minimal()+facet_wrap(state~program_name)+labs(title = "Bar plot based on Age based on program description") +ylab('Program Description')+ylab('Age')
-```
-![Bar Plot](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/plots/barplot_1.PNG)
-
-
-# 2. One scatter plot of two variables, properly labeled, with a trend line added in
-```{r }
-p <- ggplot(data = df_HFS, aes(x =age , y =program_unit_description , color=program_name)) 
-p + geom_point(size = 3) + geom_smooth(method = "lm")+ labs(title = "Scatter plot based on Age &
-Program Descriptionwith a trend line") +ylab('Program Description')+xlab('Age')
-```
-![Scattor Plot](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/plots/Q2.PNG)
-
-# 3. One faceted plot of two variables, properly labeled
-
-```{r  out.height= '100%' }
-p <- ggplot(data = df_HFS, aes(x =age , y =program_unit_description , color=program_name)) 
-p + geom_point(size = 3) +facet_wrap(state~program_type)+labs(title = "Scatter plot based on  Age and Program Description")+
-  ylab('Age')+ylab('Program Description')
-```
-
-
