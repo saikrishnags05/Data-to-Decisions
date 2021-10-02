@@ -1,8 +1,6 @@
 
 
-# "HFS Data Exploration"
-# author: "Sai Krishna Gaduputi Subbammagari"
-
+# HFS Data Exploration
 
 
 Let us read the HFS Service Data.csv file into R-studio
