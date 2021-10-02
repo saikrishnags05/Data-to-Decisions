@@ -2,6 +2,12 @@
 
 # HFS Data Exploration
 
+**Reference for the code**
+
+[Data Exploration with RMD (R Markdown) file by using R Studio](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/GIT_data_exploration.Rmd)
+
+[Data Exploration MD file created by using R studio](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/GIT_data_exploration.md)
+
 
 Let us read the HFS Service Data.csv file into R-studio
 
