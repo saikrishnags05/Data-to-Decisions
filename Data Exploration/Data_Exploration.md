@@ -30,9 +30,9 @@ ggplot(df_HFS, aes(x=age))+ geom_bar(width=0.75, fill="steelblue")+theme_minimal
 ![Bar Plot](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/plots/barplot_1.PNG)
 
 ### According to the Bar plot we can tell that most of the people from IA and NE taken part in Mental Health in all age groups.
-In **IA** most of the people are in between **0-20** age group who attended the **Mental Health** event.
-People between age group 20-40 have attended **Substance Use** in **IA** .
-In **NE** most of the people are in between **20-40** age group who attended the **Mental Health** event.
+* In **IA** most of the people are in between **0-20** age group who attended the **Mental Health** event.
+* People between age group 20-40 have attended **Substance Use** in **IA** .
+* In **NE** most of the people are in between **20-40** age group who attended the **Mental Health** event.
 
 
 
