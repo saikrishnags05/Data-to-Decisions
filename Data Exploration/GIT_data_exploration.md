@@ -185,7 +185,7 @@ library(ggplot2)
 ggplot(df_HFS, aes(x=age))+ geom_bar(width=0.75, fill="steelblue")+theme_minimal()+facet_wrap(state~program_name)+labs(title = "Bar plot based on Age based on program description") +ylab('count of Age W.R.T to location')+xlab('Age')
 ```
 
-![](GIT_data_exploration_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![Bar Plot](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/plots/barplot_1.PNG)<!-- -->
 
 ### According to the Bar plot we can tell that most of the people from IA and NE taken part in Mental Health in all age groups.
 
@@ -206,7 +206,7 @@ Program Descriptionwith a trend line") +ylab('Program Description')+xlab('Age')
 
     ## `geom_smooth()` using formula 'y ~ x'
 
-![](GIT_data_exploration_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![Scattor Plot](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/plots/Q2.PNG)<!-- -->
 
 The above image is a scatter plot with two variables `X axes` is about
 the age group and `Y axis` is about the program description with trend
@@ -239,8 +239,7 @@ p <- ggplot(data = df_HFS, aes(x =state , y =program_name , color= is_client_inv
 p + geom_point(size = 3) +facet_wrap(~ethnic_identity)+
 labs(title = "Scatter plot based on  Age and Program faceted with ethnic identity W.R.T to client involvement") +ylab('Name of the Program ')+xlab('Age')
 ```
-
-<img src="GIT_data_exploration_files/figure-gfm/unnamed-chunk-5-1.png" height="100%" />
+![Faceted Plot](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/plots/Q3.PNG)
 
 The above graph explains us about the events that took place in the
 different places and involvement of clients invloved W.R.T to ethnic
