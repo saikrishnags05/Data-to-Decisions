@@ -51,14 +51,17 @@ Lets us take a limited data frame for the table like age,program name and progra
 library(ggplot2)
 ggplot(df_HFS, aes(x=age))+ geom_bar(width=0.75, fill="steelblue")+theme_minimal()+facet_wrap(state~program_name)+labs(title = "Bar plot based on Age based on program description") +ylab('Program Description')+ylab('Age')
 ```
-![Bar Plot](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/plots/Barplot.jpeg)
+![Bar Plot](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/plots/barplot_1.PNG)
+
 
 # 2. One scatter plot of two variables, properly labeled, with a trend line added in
 ```{r }
 p <- ggplot(data = df_HFS, aes(x =age , y =program_unit_description , color=program_name)) 
 p + geom_point(size = 3) + geom_smooth(method = "lm")+ labs(title = "Scatter plot based on Age &
-Program Descriptionwith a trend line") +ylab('Program Description')+ylab('Age')
+Program Descriptionwith a trend line") +ylab('Program Description')+xlab('Age')
 ```
+![Scattor Plot](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/plots/Q2.PNG)
+
 # 3. One faceted plot of two variables, properly labeled
 
 ```{r  out.height= '100%' }
