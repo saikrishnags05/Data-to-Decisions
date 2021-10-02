@@ -43,6 +43,18 @@ p + geom_point(size = 3) + geom_smooth(method = "lm")+ labs(title = "Scatter plo
 Program Descriptionwith a trend line") +ylab('Program Description')+xlab('Age')
 ```
 ![Scattor Plot](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/plots/Q2.PNG)
+The above image is a scatter plot with two variables `X axes` is about the age group and `Y axis` is about the program description
+with trend line.
+* most of the people took part in Mental Health event for their behavioral health is all the 5 areas.
+	* nebrska 
+	* iowa
+	* south carolina
+	* north carolina
+	* colorado
+* second people in IA,NE have attended to Substance Use events.
+* Events on Gambline is mostly taken place in Iowa.
+## Note
+* But according to the program name and program description we need to check if name of the program is `Substance Use` or `Substance Abuse`
 
 # 3. One faceted plot of two variables, properly labeled
 
@@ -51,7 +63,17 @@ p <- ggplot(data = df_HFS, aes(x =state , y =program_name , color= is_client_inv
 p + geom_point(size = 3) +facet_wrap(~ethnic_identity)+
 labs(title = "Scatter plot based on  Age and Program faceted with ethnic identity W.R.T to client involvement") +ylab('Name of the Program ')+xlab('Age')
 ```
+
 ![Faceted Plot](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/plots/Q3.PNG)
+
+
+The above graph explains us about the events that took place in the different places and involment of clients  invloved W.R.T to 
+ethnic identity
+* Clients did not involved in gambling event. 
+Note: 
+There are some ethnic Identity that are missing.
+* some are  not collected and unknown
+
 
 **According to ht above 3 plots we came under a consideration that there are few missing values, short formas for the states**
 
