@@ -13,8 +13,9 @@ Data to Decision is know for its process which help to making a proper dicision 
 ![Data to Decision](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data_to_Decision.jpg)
 
 # Assignments
+* ### [Data Exploration](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/GIT_data_exploration.md)
 *  ### [Data Entry Analysis ](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Entry%20Analysis/readme.md)
-* ### [Data Exploration](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/readme.md)
+
 
 # Technologies/Tools Used: 
 * [Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
