@@ -36,6 +36,8 @@ removed because that may lead viewers into false assumptions.
     X and Y axises.
 
 * In this plot there are some issues in scaling which might not increase the intrest of viewers.
+
+* ethnical identity labels can not be seen properly. which may even decrease the intrest of the Viewers.
   
 
 ###Worst Plot 2
