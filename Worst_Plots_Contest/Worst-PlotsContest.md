@@ -1,9 +1,7 @@
 Worst Plots Contest
 ================
 
-## Worst Plots Contest
-
-In this task i would like to show some Worst Plots with HFS data
+In this task i would like to show some Worst Plots with HFS data 
 
 ``` r
 library('ggplot2')
