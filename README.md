@@ -15,7 +15,7 @@ Data to Decision is know for its process which help to making a proper dicision 
 # Assignments
 * ### [Data Exploration](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Exploration/GIT_data_exploration.md)
 *  ### [Data Entry Analysis ](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Data%20Entry%20Analysis/readme.md)
-*  ### [Worst Plots Contest]()
+*  ### [Worst Plots Contest](https://github.com/saikrishnags05/Data-to-Decisions/blob/main/Worst_Plots_Contest/Worst-PlotsContest.md)
 
 
 # Technologies/Tools Used: 
