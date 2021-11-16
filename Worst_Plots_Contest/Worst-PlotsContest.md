@@ -40,7 +40,7 @@ removed because that may lead viewers into false assumptions.
 * ethnical identity labels can not be seen properly. which may even decrease the intrest of the Viewers.
   
 
-###Worst Plot 2
+### Worst Plot 2
 
 ``` r
 library(RColorBrewer)
@@ -56,20 +56,22 @@ pie(pie_data$num_visitors,labels =pie_data$gender, border="white", col=myPalette
 
 ![](Worst-PlotsContest_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
-####Reason: \* The above **Pie-chat** is not a good fit for the data
+#### Reason: 
+
+* The above **Pie-chat** is not a good fit for the data
 because of the overlapping labels and not specifying the data.
 
--   Plot may be a bit confusing because there are some values were even
+*   Plot may be a bit confusing because there are some values were even
     if it have data in it it shows like 0 or 1 in the graph.lets take
     **female, Non-Binary and Two-Spirit** as an example where it’s value
     is 2 ,36,43 but when we see the graph we can see that all the 3 are
     almost same.
 
--   If we further investigate we can notice that there are `two` values
+*   If we further investigate we can notice that there are `two` values
     that tells about same thing in the pie chat like **Female & Women**.
     Which may confuse the views.
 
-###Worst Plot 3
+### Worst Plot 3
 
 ``` r
 library(RColorBrewer)
