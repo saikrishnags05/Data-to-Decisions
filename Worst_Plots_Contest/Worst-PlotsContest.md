@@ -91,7 +91,7 @@ ggplot(bar_data) +
 because of few reason:
 
 -   **Reason:1** There is no mistake in plotting both line and bar plot
-    in a single graph.but, we need to take some things under
+    in a single graph.But, we need to take some things under
     consideration.
 
     -   what we can observe?
@@ -99,7 +99,7 @@ because of few reason:
         there is no use of line plot on a bar plot.
 
 -   **Reason:2** We can observe that there are multiple colors in the
-    graph which is not that use full because they are already labelled
+    graph which is not that usefull because they are already labelled
     with names.
 
 -   **Reason:3** the count of Female,Non-Binary,Two-Spirit is 2, 36 and
