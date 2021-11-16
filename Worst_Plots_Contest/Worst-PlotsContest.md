@@ -37,7 +37,7 @@ removed because that may lead viewers into false assumptions.
 *   The plot is so clumsy and and there are so many `NA` values in both
     X and Y axises.
 
-* In this plot there are some issues in scaling which might not increate the intrest of viewers.
+* In this plot there are some issues in scaling which might not increase the intrest of viewers.
   
 
 ###Worst Plot 2
