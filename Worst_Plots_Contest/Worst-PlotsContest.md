@@ -10,7 +10,7 @@ library('ggplot2')
 df<-read.csv('HFS Service Data.csv')
 ```
 
-###Worst Plot 1
+### Worst Plot 1
 
 ``` r
 library('ggplot2')
@@ -26,14 +26,19 @@ ggplot(data = new_df) +
 
 ![](Worst-PlotsContest_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
-####Reason: \* Even though we show all data in the plot we can
+#### Reason: 
+
+* Even though we show all data in the plot we can
 understand that this plot is worst because of the missing data of
 `female` and also there are some other entries like
 `Other`,`Client Declined to Give` and `Not Obtained` which should be
 removed because that may lead viewers into false assumptions.
 
--   The plot is so clumsy and and there are so many `NA` values in both
+*   The plot is so clumsy and and there are so many `NA` values in both
     X and Y axises.
+
+* In this plot there are some issues in scaling which might not increate the intrest of viewers.
+  
 
 ###Worst Plot 2
 
